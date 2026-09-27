@@ -37,4 +37,9 @@ Where:
 
 ---
 
-## MODEL GRAPH
+## TABULATION
+<img width="584" height="1280" alt="WhatsApp Image 2026-09-28 at 3 11 54 AM" src="https://github.com/user-attachments/assets/bce127be-d6f3-432f-a27c-275db665aadf" />
+
+## RESULT 
+
+Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
